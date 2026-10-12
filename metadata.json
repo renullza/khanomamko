@@ -1,0 +1,6 @@
+{
+  "name": "Kafv (کفو) - سامانه تحلیلی همسرگزینی و تصمیم‌گیری",
+  "description": "سامانه مدیریت و ارزیابی چندمعیاره گزینه‌های ازدواج، پیگیری مراحل آشنایی و تحلیل سازگاری برای پژوهشگران و دانشجویان دکتری",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
